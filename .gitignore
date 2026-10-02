@@ -1,0 +1,9 @@
+node_modules/
+package-lock.json
+head_shoulders.png
+myimg_nobg.png
+dither_dark_features.png
+dither_high_features.png
+projects.svg
+projects-light.svg
+temp_*
