@@ -1,0 +1,44 @@
+[
+  {
+    "name": "TravelPlanner",
+    "repo": "mayank4574/TravelPlanner",
+    "logo": "travel.png",
+    "description": "AI-powered travel itinerary planner with smart destination discovery and scheduling",
+    "tags": ["React", "Node.js", "Gemini API"]
+  },
+  {
+    "name": "Mini ERP & CRM",
+    "repo": "mayank4574/mini-erp-crm",
+    "logo": "erp.png",
+    "description": "Full-stack enterprise management system for customer relations, inventory, and lead tracking",
+    "tags": ["React", "Express.js", "MongoDB"]
+  },
+  {
+    "name": "Golf Charity",
+    "repo": "mayank4574/GOLFCHARITY",
+    "logo": "golf.png",
+    "description": "E-commerce charity tournament management platform with admin analytics and payment workflow",
+    "tags": ["React", "Tailwind CSS", "Node.js"]
+  },
+  {
+    "name": "Accredian Portal",
+    "repo": "mayank4574/accredian",
+    "logo": "accredian.png",
+    "description": "Course referral and student onboarding portal with automated email notifications",
+    "tags": ["React", "Node.js", "MySQL"]
+  },
+  {
+    "name": "MedAI Health",
+    "repo": "mayank4574/medai",
+    "logo": "medai.png",
+    "description": "Intelligent AI medical assistant analyzing clinical queries and symptoms",
+    "tags": ["Python", "LangChain", "OpenAI API"]
+  },
+  {
+    "name": "Netflix Clone",
+    "repo": "mayank4574/netflix-clone",
+    "logo": "netflix.png",
+    "description": "High-fidelity streaming interface with dynamic catalog and media preview",
+    "tags": ["JavaScript", "HTML5", "CSS3"]
+  }
+]

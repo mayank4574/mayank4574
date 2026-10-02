@@ -1,108 +1,73 @@
-<h1 align="left">💫 About Me:</h1>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<p align="left">🔭 I’m currently working on MERN stack web applications and personal projects.<br><br>👯 I’m looking to collaborate on open-source MERN stack and full-stack web development projects.<br><br>🤝 I’m looking for help with improving backend architecture and scalable web applications.<br><br>🌱 I’m currently learning Java with Data Structures & Algorithms, Data Science, Agentic AI, AI tools, and improving my backend skills with Node.js.<br><br>💬 Ask me about MERN stack, JavaScript, Node.js, React, and MongoDB.<br><br>⚡ Fun fact: I love building real-world projects and learning new technologies every day.</p>
-
-###
-
-<h1 align="left">🌐 Socials:</h1>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mayank-yadav-8a55992a3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mayankyadav4574" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="left">💻 Tech Stack:</h1>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="60" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
-</div>
-
-###
-
-<h1 align="left">📊 GitHub Stats:</h1>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayank4574/mayank4574/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/mayank4574/mayank4574/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mayank4574&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/mayank4574/mayank4574/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/mayank4574/mayank4574/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
+<!-- HERO -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayank4574/mayank4574/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayank4574/mayank4574/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mayank4574/mayank4574/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayank4574/mayank4574/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayank4574/mayank4574/main/light.svg">
+  <img alt="Mayank Yadav" src="https://raw.githubusercontent.com/mayank4574/mayank4574/main/dark.svg" width="100%">
 </picture>
 
-###
+<!-- STATS -->
+<div align="center">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<!-- Streak — full width -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mayank4574&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=mayank4574&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Mayank's Streak" />
+</picture>
+
+<br/>
+
+<!-- Stats + Top Languages — side by side -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mayank4574&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayank4574&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Mayank's GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank4574&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank4574&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top Languages" />
+</picture>
+
 </div>
 
-###
+<!-- SNAKE -->
+<br/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayank4574/mayank4574/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayank4574/mayank4574/output/snake-light.svg" />
+    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/mayank4574/mayank4574/output/snake-light.svg" width="100%" />
+  </picture>
+</div>
+
+<!-- PROJECTS -->
+<br/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayank4574/mayank4574/projects/projects.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayank4574/mayank4574/projects/projects-light.svg" />
+    <img alt="Featured Projects" src="https://raw.githubusercontent.com/mayank4574/mayank4574/projects/projects.svg" width="100%" />
+  </picture>
+</div>
+
+<!-- SOCIALS -->
+<br/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mayank-yadav-8a55992a3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0A101F" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://mayankyadav.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=10B981&labelColor=0A101F" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Mayank4574/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0A101F" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/mayank4574" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mayankyadav4574@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=F43F5E&labelColor=0A101F" alt="Email" />
+  </a>
+</div>
